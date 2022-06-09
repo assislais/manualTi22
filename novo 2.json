@@ -1,0 +1,842 @@
+
+{
+    "id":"0",
+    "titulo":"Apresentação",
+    "resumo":"Muito além de um software para gerenciamento de locações, o Ti22 é um sistema completo que possui diversas funcionalidades. Além de monitorar, é possível fazer toda a gestão da sua empresa. Veja alguns dos recursos:",
+    "idimg":"0",
+    "tipo":"Manual",
+    "item":["De forma simples e rápida, realize Cadastros de toda a estrutura envolvida em uma empresa de locações","Tenha todo o controle sobre as Movimentações de produtos e serviços.","Gestão Financeira completa e integrada às responsabilidades fiscais.","Controle a utilização dos colaboradores a cada função do sistema.","Relatórios e extratos personalizados que oferecem informações essenciais para a administração da sua empresa."],
+    "id_destino":"0_0"
+    }
+    {
+        "id":"0_0",
+        "titulo":"Manual do Usuário",
+        "idimg":"0_0",
+        "tipo":"Menu",
+        "opcoes":["Primeiros Passos","Recursos","Ferramentas de Pesquisa","Botões","Abas"],
+        "idopcoes":["0_1","0_2","0_3","0_4","0_5"]
+        }
+        {
+            "id":"0_1",
+            "titulo":"Primeiros Passos",
+            "resumo":"Ao abrir o software, nos deparamos com a tela de login e para acessar o sistema é necessário ter um Usuário.",
+            "idimg":"0_1",
+            "tipo":"Manual",
+            "item":["Selecione a empresa e a filial e digite o Usuário e Senha para efetuar o login.","Em administração será mostrado passo a passo como criar Usuários."],
+            "id_destino":"0_1_1"
+            }
+            {
+                "id":"0_1_1",
+                "titulo":"Tela Principal",
+                "resumo":"Após a realização do Login, a primeira tela é a principal, onde podemos visualizar o menu lateral, barra de pesquisa e o menu rápido.",
+                "idimg":"0_1_1",
+                "tipo":"Manual",
+                "item":["O Menu Lateral(1) possui a lista de cada categoria do sistema e é possível exibí-lo ou escondê-lo com um clique na marcação(2) demonstrada na imagem.","A barra de pesquisas(3) tem a função de buscar o menu desejado, basta digitá-lo para encontrar.","O Menu Rápido é um recurso muito útil para acessar rapidamente os menus mais utilizados. Ele é adaptável de acordo com a necessidade e a configuração será comprendida mais adiante."],
+                "id_destino":"0_1_2"
+                }
+                {
+                    "id":"0_1_2",
+                    "titulo":"Administrando Usuários",
+                    "resumo":"Primeiramente, para ter acesso ao sistema, é necessário a criação de Grupos e Usuários onde será definido os tipos de Permissões. O primeiro passo é a criação de um Grupo:",
+                    "idimg":["0_1_2"],
+                    "tipo":"Manual",
+                    "item":["Na tela principal, localize e clique no menu Administração","Clique em Grupo", "Clique em Ususário Grupo para abrir o cadastro de Grupos"],
+                    "id_destino":["0_1_2_1"]
+                    }		
+                    {
+                        "id":"0_1_2_1",
+                        "titulo":"Criando um Grupo",
+                        "resumo":"O objetivo é segmentar, através de grupos, as permissões dos usuários a cada menu ou função do sistema. Dessa forma, podemos criar um Grupo onde os usuários só terão as permissões que forem atribuídas a ele.",
+                        "idimg":"0_1_2_1",
+                        "tipo":"Manual",
+                        "item":["Na janela de Cadastro de Grupo, clique no Botão 'Novo'","Digite o nome do grupo e clique no Botão 'Confirmar'."],
+                        "id_destino":["0_1_2_2"]
+                        }				
+                    {		
+                        "id":"0_1_2_2",
+                        "titulo":"Criando um Usuário",
+                        "resumo":"Além de criar um novo cadastro, também é possível Alterar, Excluir e Pesquisar, através dos Botões localizados no rodapé das janelas.",
+                        "idimg":["0_1_2_2"],
+                        "tipo":"Manual", 
+                        "item":["Localize e clique em Usuário para abrir a janela de Cadastro de Usuários.","Clique no Botão 'Novo' para abrir a aba Cadastro, preencha o 'Nome, Usuário e Senha' e selecione o Grupo do qual o usuário irá pertencer e por fim, clique em Confirmar."],
+                        "id_destino":["0_1_2_3"]
+                        }		
+                    {		
+                        "id":"0_1_2_3",
+                        "titulo":"Permissões dos Usuários",
+                        "resumo":"Nesse menu podemos definir as permissões e como será exibido o Menu Rápido de cada usuário.",
+                        "idimg":["0_1_2_3"],
+                        "tipo":"Manual", 
+                        "item":["Vá ao menu Permissões, dê dois cliques no usuário para selecioná-lo e clique no Botão 'Alterar'.","Para realizar a alteração, basta localizar o menu e o submenu, selecionar a opção 'Sim' ou 'Não' onde será definido se o usuário terá permissão à função." ],
+                        "id_destino":["0_1_2_4"]
+                        }		
+                    {		
+                        "id":"0_1_2_4",
+                        "titulo":"Menu Rápido",
+                        "resumo":"O intuito do menu rápido é facilitar o acesso aos menus mais utilizados pelo usuário. Ele pode ser visualizado no canto superior direito do sistema.",
+                        "idimg":["0_1_2_4"],
+                        "tipo":"Manual", 
+                        "item":["Ainda em Permissões, dê dois cliques no usuário para selecioná-lo e vá na aba Menu Rápido.","Para definir os menus que serão exibidos, escolha na lista e clique na seta '2' indicada na imagem.","Para remover um item do menu rápido, basta selecionar através da lista direita e clicar na seta 3.","As setas 1 e 4 servem para selecionar e remover(respectivamente) todos os itens de uma só vez." ],
+                        "id_destino":["0_1_2_5"]
+                        }	
+                    {		
+                        "id":"0_1_2_5",
+                        "titulo":"Controle de Acessos",
+                        "resumo":"No menu acesso contém informações sobre os acessos de cada usuário.",
+                        "idimg":["0_1_2_5"],
+                        "tipo":"Manual", 
+                        "item":["Nesse menu é possível visualizar e também finalizar a sessão de um usuário, fazendo com que ele seja deslogado do sistema.","Para isso, clique no usuário desejado com o Botão direito do mouse e selecione a opção 'Finalizar Sessão'.","Há também a opção de enviar uma mensagem para o usuário, basta Seguir o mesmo passo anterior e selecionar 'Enviar mensagem'." ],
+                        "id_destino":["0_0"]
+                        }
+                        
+{
+    "id":"0_2",
+    "titulo":"Recursos",
+    "idimg":"0_2",
+    "tipo":"Menu",
+    "opcoes":["Cadastros","Movimentação","Financeiro","Administração","Relatórios","Fiscal","Manutenção","Seção","Outros","FAQ","Paramêtros"],
+    "idopcoes":["1","2","3","4","5","6","7","8","9","10","11"]
+    }
+    {
+        "id":"1",
+        "titulo":"Cadastros",
+        "resumo":"O cadastro é dividido por setores e nele podemos incluir todos os dados necessários ao funcionamento do sistema.",
+        "idimg":"1",
+        "tipo":"Manual",
+        "item":["Cada menu possui abas específicas e preenchimento obrigatório em alguns campos, afim de prover cadastros completos e funcionais","Aprenda a criar novos cadastros na sessão de Primeiros Passos, mas antes conheça um pouco sobre cada menu e algumas de suas abas."],
+        "id_destino":"1_0"
+        }
+        {
+            "id":"1_0",
+            "titulo":"Categorias de Cadastros",
+            "idimg":"1_0",
+            "tipo":"Menu",
+            "opcoes":["Colaboradores","Produtos","Serviços","Equipamentos","Financeiro","Fiscal","Contábil","Transporte","Locação","Empresa","Filial","Parâmetro"],
+            "idopcoes":["1_1","1_2","1_3","1_4","1_5","1_6","1_7","1_8","1_9","1_10","1_11","1_12"]
+            }
+        {
+            "id":"1_1",
+            "titulo":"Cadastro de Colaboradores",
+            "resumo":"Este é um dos setores mais utilizados, é aqui que iremos cadastrar os clientes. Nele possui 4 menus: - Cliente - Fornecedor - Vendedor - Comprador.",
+            "idimg":"1_1",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"1_1_1"
+            }
+            {
+                "id":"1_1_1",
+                "titulo":"Cliente",
+                "resumo":"Em Cadastro de Clientes existem abas distintas como: - Endereços - Contatos - Obras - Anexos - Locações - Históricos Financeiro - Valor Locação - Parâmetros - Créditos.",
+                "idimg":"1_1_1",
+                "tipo":"Manual",
+                "item":["Na aba Endereços é possível visualizar e distinguir o endereço de Entrega do endereço de Cobrança.","Em Contatos podemos adicionar uma ou mais pessoas responsáveis por receber e assinar o contrato.","Em Obras é possível incluir o endereço das obras vinculadas ao cadastro se houver necessidade de direcionar o endereço de recebimento dos equipamentos.","Em Anexos é possível armazenar quaisquer documentos ou arquivos necessários.","As Abas Locações e Históricos Financeiro exibem informações correspondentes.", "Em Valor Locação podemos adicionar o valor daquela locação","Em Parâmetros podemos definir critérios que serão úteis ao gerar registros financeiros ou fiscais.","Aba Créditos tem a utilidade de adicionar valores em créditos para o cliente."],
+                "id_destino":"1_1_2"
+                }
+            {
+                "id":"1_1_2",
+                "titulo":"Fornecedor",
+                "resumo":"Também é possível cadastrar os fornecedores e no menu possui as abas: Contatos - Anexos - Históricos Financeiro.",
+                "idimg":"1_1_2",
+                "tipo":"Manual",
+                "item":["A aba de Contatos é muito importante para salvar o contato daquele fornecedor.","Em Anexos armazene todos os documentos, posteriormente isso poderá ser útil para localizá-los rapidamente.","Em Históricos Financeiro é possível visualizar o extrato dos pagamentos realizados."],
+                "id_destino":"1_1_3"
+                }
+            {
+                "id":"1_1_3",
+                "titulo":"Vendedor",
+                "resumo":"Nesse menu conseguimos cadastrar os vendedores e suas abas são: Dados Adicionais - Anexos.",
+                "idimg":"1_1_3",
+                "tipo":"Manual",
+                "item":["Em dados Adicionais...",],
+                "id_destino":"1_1_4"
+                }
+            {
+                "id":"1_1_4",
+                "titulo":"Comprador",
+                "resumo":"",
+                "idimg":"1_1_4",
+                "tipo":"Manual",
+                "item":["Em dados Adicionais...",],
+                "id_destino":"1"
+                }
+        {
+            "id":"1_2",
+            "titulo":"Cadastro de Produtos",
+            "resumo":"Nessa categoria, além do Produto, existem outros menus: O Fabricante, Classe e Unidade.",
+            "idimg":"1_2",
+            "tipo":"Manual",
+            "item":["Primeiramente precisamos realizar o cadastro nesses três menus, somente após isso os produtos podem ser cadastrados.","Dessa forma, será possível adicionar o Fabricante, a Classe e a Unidade ao produto"],
+            "id_destino":"1_2_1"
+            }
+            {
+                "id":"1_2_1",
+                "titulo":"Fabricante",
+                "resumo":"A identificação do fabricante de um produto é crucial para localizá-lo e manter controle sob o estoque.",
+                "idimg":"1_2_1",
+                "tipo":"Manual",
+                "item":[""],
+                "id_destino":"1_2_2"
+                }
+            {
+                "id":"1_2_2",
+                "titulo":"Classe",
+                "resumo":"As classes são muito úteis para a organização dos produtos, pois serão exibidos e classificados por hierarquia.",
+                "idimg":"1_2_2",
+                "tipo":"Manual",
+                "item":["Dica: Mais adiante, quando for cadastrar as suas classes, clique com o Botão direito do mouse em uma classe já existente e selecione 'Novo'.","Isso fará com que o seu novo cadastro de classe herde a classe pai e a hierarquia da classe selecionada."],
+                "id_destino":"1_2_3"
+                }
+            {
+                "id":"1_2_3",
+                "titulo":"Unidade",
+                "resumo":"A padronização de unidades é importante para a organização no cadastro dos produtos e também para a emissão de NFe's.",
+                "idimg":"1_2_3",
+                "tipo":"Manual",
+                "item":["Crie unidades em compatíveis com o fabricante e órgãos fiscais, para a redução de erros na contagem do estoque e notas de entrada/saída."],
+                "id_destino":"1_2_4"
+                }
+            {
+                "id":"1_2_4",
+                "titulo":"Produto",
+                "resumo":"Por fim, em cadastro de Produtos existem algumas abas diferenciadas como: - Custos/Preços - Impostos - Serial - Lote - Produtos Adicionais - Similares",
+                "idimg":"1_2_4",
+                "tipo":"Manual",
+                "item":["É importante que os dados do produto sejam preenchidos em conformidade com os atributos fiscais. Basicamente todas as abas servem para auxiliar nisso.","Esse menu também possui a aba Anexos, que pode facilitar o armazenamento de fotos do estado de conservação, notas fiscais do produto, entre outros."],
+                "id_destino":"1"
+                }
+        {
+            "id":"1_3",
+            "titulo":"Cadastro de Serviços",
+            "resumo":"Nesse menu podemos cadastrar os serviços prestados pela empresa.",
+            "idimg":"1_3",
+            "tipo":"Manual",
+            "item":["O cadastro dos serviços também possuem atributos fiscais."],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_4",
+            "titulo":"Cadastro de Equipamentos",
+            "resumo":"O cadastro de equipamentos segue a mesma lógica de Produtos, também possui Fabricante, Classe e Unidade. Comece os cadastros na ordem sugerida em produtos e por último cadastre os equipamentos.",
+            "idimg":"1_",
+            "tipo":"Manual",
+            "item":["Esse menu possui algumas abas como: Acessórios - Histórico de Locação - Valor Locação - Movimentação - Histórico de Manutenção - Anexos - RFID - Código de Barras"],
+            "id_destino":"1_4_1"
+            }
+            {
+                "id":"1_4_1",
+                "titulo":"Abas - Equipamentos",
+                "resumo":"Cada aba do menu possui uma função importante para complementar os cadastros. Conheça a funcionalidade de cada aba a seguir.",
+                "idimg":"1_4_1",
+                "tipo":"Manual",
+                "item":["Em Acessórios pode-se vincular um acessório ao equipamento.","Na aba Histórico de Locação é exibido os clientes e os períodos em que o equipamento foi locado.","Como mostrado na imagem, em Valor Locação podemos adicionar os valores da locação.","Na aba Movimentação é exibido todas as atividades do equipamento, como locação ou manutenção, entre outros.","Em Histórico de Manutenção é possível ver o histórico de forma detalhada.","RFID e Código de Barras são métodos de identificação por etiqueta. Essas abas servem para adicioná-las, tornando mais fácil a identificação de cada equipamento."],
+                "id_destino":"1"
+                }
+        {
+            "id":"1_5",
+            "titulo":"Cadastro de Financeiro",
+            "resumo":"Nesse menu podemos cadastrar: - Bancos - Caixa - Documentos - Forma de Pagar.",
+            "idimg":"1_5",
+            "tipo":"Manual",
+            "item":["No menu Banco podemos adicionar o seu banco e as configurações da Carteira de Cobrança, de forma que os boletos gerados sejam vinculados diretamente ao seu banco.","O cadastro de Caixa serve para definir caixas onde será vinculado o fluxo, recebimentos etc.","Em documentos é feito o cadastro do tipo de instrumento, como por exemplo: - Boleto - Cheque - Dinheiro","O menu Forma de Pagar serve para cadastrar as condições e os prazos de pagamento."],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_6",
+            "titulo":"Cadastro Fiscal",
+            "resumo":"Nessa categoria é feito o cadastro de todos os atributos fiscais necessários: CFOP - CST - Modelo NFe - Natureza de Operação - Inf. Complementares - Obs. Lançamento",
+            "idimg":"1_6",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_7",
+            "titulo":"Cadastro Contábil",
+            "resumo":"Nesse setor é possível cadastrar: Plano de Contas - Centro de Custos - Contabilista.",
+            "idimg":"1_7",
+            "tipo":"Manual",
+            "item":["O Plano de Contas é o agrupamento de forma ordenada, para o controle e a organização de todas as contas da empresa.","Centro de Custos é a separação financeira de custos por setores da empresa.","O Menu contabilista é útil para cadastrar o contador ou contabilidade."],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_8",
+            "titulo":"Cadastro de Transporte",
+            "resumo":"A Transportadora utilizada na empresa pode ser cadastrada nesse menu.",
+            "idimg":"1_8",
+            "tipo":"Manual",
+            "item":["É possível atribuir a Frota de veículos através da aba Frota, adicionando cada veículo por categoria.","A aba anexos também é útil para armazenar fotos e documentos dos veículos."],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_9",
+            "titulo":"Cadastro Locação",
+            "resumo":"Esse menu é destinado ao cadastro dos períodos de locação praticados na empresa.",
+            "idimg":"1_9",
+            "tipo":"Manual",
+            "item":["O período é escolhido de acordo com a sua necessidade, indicando o início e o final."],
+            "id_destino":"1"
+            }
+        {
+            "id":"1_10",
+            "titulo":"Cadastro de Empresa",
+            "resumo":"Nesse menu é feito o cadastro da sua empresa e ele possui abas adicionais como: - Complementar - Filiais - Parâmetros - Anexos",
+            "idimg":"1_10",
+            "tipo":"Manual",
+            "item":["Na aba Complementar é possível adicionar informações detalhadas sobre a empresa.","Em Filiais é exibido as filiais vinculadas à empresa, no entanto, observe que o cadastro e a definição da filial são feitos em outros menus a seguir.","A aba parâmetros tem a utilidade de definir critérios de configuração do cadastro."],
+            "id_destino":"1_11"
+            }
+        {
+            "id":"1_11",
+            "titulo":"Cadastro de Filial",
+            "resumo":"Esse menu é utilizado para o cadastro de uma filial e as abas adicionais são: - Parâmetros - Anexos - NFS-'e por Localidade - Responsável Assinatura",
+            "idimg":"1_11",
+            "tipo":"Manual",
+            "item":["Veremos mais Sobre Parâmetros no último menu em 'Cadastros', mas pode-se observar na imagem um exemplo de como os parâmetros são estabelecidos.","Na aba NFS-'e por Localidade é definido como a emissão será feita.","Na aba Responsável Assinatura é adicionado o responsável por assinar pela filial."],
+            "id_destino":"1"
+            }
+            
+        {
+            "id":"1_12",
+            "titulo":"Cadastro de Parâmetros",
+            "resumo":"Os parâmetros são regras que definem uma configuração padrão. Os tipos de parâmetros são: - Parâmetro Geral - Parâmetro por Empresa - Parâmetro por Cliente",
+            "idimg":"1_12",
+            "tipo":"Manual",
+            "item":["O Parâmetro Geral e o Parâmetro por Empresa são similares, no entanto, o parâmetro por Empresa é aplicado por empresa, então se houver mais de uma empresa cadastrada no sistema, cada uma vai assumir parâmetros distintos.","Em 'Parâmetros', verá que possui as colunas Parâmetros - Descrição - Valor", "Para alterar um parâmetro preestabelecido, é preciso preencher a coluna 'Valor' em conformidade com o que é explicado na descrição."],
+            "id_destino":"1_12_1"
+            }                  
+            {
+                "id":"1_12_1",
+                "titulo":"Parâmetro Geral",
+                "resumo":"Esse é o principal parâmetro, cujos critérios são definidos no sistema em geral. ",
+                "idimg":"1_12_1",
+                "tipo":"Manual",
+                "item":["Filial Padrão: Define a filial principal que será selecionada por padrão.","Estado Padrão é a UF onde a empresa está localizada.","Condição de Pagamento - Locação/Faturamento: Define a forma de pagamento selecionada como padrão.","Cliente Padrão: define qual cliente a janela de cadastro abre como modelo padrão.","Vendedor Padrão: Define um vendedor como modelo padrão.","Emails e senhas: Esses dados são definidos de acordo com a descrição.","Percentual Juros Atraso: Define qual será o juros aplicado aos boletos em atraso","Cláusulas Contrato: Define as cláusulas dos contratos que serão emitidos.","Path Foto: Define o destino padrão para armazenar as fotos/anexos.","Endereço Padrão Fatura: Define se o endereço da fatura será o mesmo estabelecido no contrato de locação."],
+                "id_destino":"1_12_2"
+                }
+            {
+                "id":"1_12_2",
+                "titulo":"Parâmetro por Cliente",
+                "resumo":"Os parâmetros em Cadastro de Clientes definir critérios que serão aplicados em todos os clientes.",
+                "idimg":"1_12_2",
+                "tipo":"Manual",
+                "item":["Cliente Locadora: Define o preço de sub-locação, caso o cliente seja uma locadora terceirizando a locação.","Cliente retém ISS: Define se o imposto sobre serviço é retido."],
+                "id_destino":"0_2"
+                }               
+
+    {
+        "id":"2",
+        "titulo":"Movimentação",
+        "idimg":"2",
+        "tipo":"Menu",
+        "opcoes":["Locações","Saídas","Entradas","Orçamento","Ordem de Serviço","Manutenção de Equipamento","Faturamento"],
+        "idopcoes":["2_1","2_2","2_3","2_4","2_5","2_6","2_7"]
+        }
+        {
+            "id":"2_1",
+            "titulo":"Locações",
+            "resumo":"Em Locaçoes existem menus que auxiliam no controle da movimentação: - Locação - Devolução - Cancelamentos - Troca",
+            "idimg":"2_1",
+            "tipo":"Manual",
+            "item":["É importante observar que existe o cancelamento das locações e também o cancelamento das devoluções."],
+            "id_destino":"2_1_1"
+            }
+            {
+                "id":"2_1_1",
+                "titulo":"Locação",
+                "resumo":"No menu Locação podemos visualizar e adicionar novas locações, além de filtrar pelo status do contrato, assim como outras abas adicionais: - Itens - Acessórios - Fiador - Obra - Período Faturamento",
+                "idimg":"2_1_1",
+                "tipo":"Manual",
+                "item":["A aba Itens é destinada a inclusão dos equipamentos que serão locados, selecionar o equipamento, definir valores etc.","Caso seja necessário, pode-se adicionar um fiador na aba Fiador.","A aba Período Faturamento exibe todo o histórico dos períodos faturados de cada equipamento locado."],
+                "id_destino":"2_1_2"
+                }
+            {
+                "id":"2_1_2",
+                "titulo":"Devolução",
+                "resumo":"As devoluções são realizadas nesse menu, nele é possível filtrar as locações de acordo com os critérios selecionados e efetuar a devolução de um item específico.",
+                "idimg":"2_1_2",
+                "tipo":"Manual",
+                "item":["Para realizar uma devolução é preciso encontrar e selecionar a locação através do filtro. A aba expandirá clicando na marcação(4) exibida na imagem.","Após Filtrar, selecione o contrato desejado e clique no Botão 'Devolver'.","Exibirá uma janela de devolução onde é necessário marcar quais itens serão devolvidos. Confira os dados, clique em Devolver e confirme a devolução."],
+                "id_destino":"2_1_3"
+                } /*                    -----------ENTENDER O CANCELAMENTO E VOLTAR AQUI-----------
+            {
+                "id":"2_1_3",
+                "titulo":"Cancelamentos",
+                "resumo":"",
+                "idimg":"2_1_3",
+                "tipo":"Manual",
+                "item":["Para realizar uma devolução é preciso encontrar e selecionar a locação através do filtro. A aba expandirá clicando na marcação(4) exibida na imagem.","Selecione o contrato desejado e clique no Botão 'Devolver'.","Exibirá uma janela de devolução onde é necessário marcar quais itens serão devolvidos. Confira os dados, clique em Devolver e confirme a devolução."],
+                "id_destino":"2_1_4"
+                } */
+            {
+                "id":"2_1_4",
+                "titulo":"Troca",
+                "resumo":"Menu destinado a realização de trocas, ele possui funções similares ao menu Devoluções.",
+                "idimg":["2_1_4","2_1_4_1"],
+                "tipo":"Manual",
+                "item":["Após seguir os passos indicados na imagem para filtrar e selecionar o contrato, outra janela abrirá","Marque o item desejado para troca(1) e clique no Botão Trocar(2) para abrir a janela 'Item Troca'.","Preencha os campos(3) e Clique em Confirmar(4) para finalizar a troca e gerar um arquivo de impressão."],
+                "id_destino":"2"
+                }/*                    -----------AGUARDAR CONCLUSÃO DESSES MENUS-------------
+        {
+            "id":"2_2",
+            "titulo":"Saídas",
+            "resumo":"",
+            "idimg":"2_2",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+        {
+            "id":"2_3",
+            "titulo":"Entradas",
+            "resumo":"",
+            "idimg":"2_3",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+        {
+            "id":"2_4",
+            "titulo":"Orçamento",
+            "resumo":"",
+            "idimg":"2_4",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+        {
+            "id":"2_5",
+            "titulo":"Ordem de Serviço",
+            "resumo":"",
+            "idimg":"2_5",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+        {
+            "id":"2_6",
+            "titulo":"Manutenção de Equipamento",
+            "resumo":"",
+            "idimg":"2_6",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+        {
+            "id":"2_7",
+            "titulo":"Faturamento",
+            "resumo":"",
+            "idimg":"2_7",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            } */
+    {
+        "id":"3",
+        "titulo":"Financeiro",
+        "idimg":"3",
+        "tipo":"Menu",
+        "opcoes":["Conta a Pagar","Conta a Receber","Caixa","Cheque","Boleto","Crédito"],
+        "idopcoes":["3_1","3_2","3_3","3_4","3_5","3_6"]
+        }
+        {
+            "id":"3_1",
+            "titulo":"Conta a Pagar",
+            "resumo":"Um menu destinado ao Lançamento e a Baixa das Contas a Pagar.",
+            "idimg":"3_1",
+            "tipo":"Manual",
+            "item":["As contas a pagar são todas as obrigações financeiras e o seu controle é essencial."],
+            "id_destino":"3_1_1"
+            }
+            {
+                "id":"3_1_1",
+                "titulo":"Lançamento - Conta a Pagar",
+                "resumo":"Nesse menu podemos lançar todas as contas pendentes de pagamento, além de definir as parcelas e conferir o Histórico",
+                "idimg":"3_1_1",
+                "tipo":"Manual",
+                "item":[""],
+                "id_destino":"3_1_2"
+                } /*                    --------------AGUARDAR A CONCLUSÃO DESSE MENU------------
+            {
+                "id":"3_1_2",
+                "titulo":"Baixa - Conta a Pagar",
+                "resumo":"Ao realizar o pagamento, podemos efetuar a baixa total ou parcial das contas. No menu de Baixas é possível filtrar as Contas por fornecedores.",
+                "idimg":"3_1_2",
+                "tipo":"Manual",
+                "item":[""],
+                "id_destino":"2_"
+                } */
+        {
+            "id":"3_2",
+            "titulo":"Conta a Receber",
+            "resumo":"Esse menu destina-se ao Lançamento e a Baixa das Contas a Receber dos Clientes",
+            "idimg":"3_2",
+            "tipo":"Manual",
+            "item":[""],
+            "id_destino":"2_"
+            }
+            {
+                "id":"3_2_1",
+                "titulo":"Lançamento - Conta a Receber",
+                "resumo":"Além de lançar os recebimentos pendentes, podemos definir as parcelas e conferir o Histórico",
+                "idimg":"3_2_1",
+                "tipo":"Manual",
+                "item":["Ao lançar uma conta é possível definir as parcelas, vincular a um Plano de Contas, Centro Custo"],
+                "id_destino":"2_"
+                }
+            {
+                "id":"3_2_2",
+                "titulo":"Baixa - Conta a Receber",
+                "resumo":"Destinado a baixa das contas a receber. Aqui podemos efetuar a baixa total ou parcial.",
+                "idimg":["3_2_2","3_2_2_1"],
+                "tipo":"Manual",
+                "item":["Após seguir os passos indicados na imagem selecionando a conta desejada e abrindo a próxima janela.","Na segunda imagem é exibido detalhadamente os dados da conta, confira e altere os valores de acordo com o que foi recebido.","O valor recebido deve ser adicionado através do campo 'Valor Informado'."],
+                "id_destino":""
+                }
+
+            
+1 Apresentação
+1.1 Resumo geral
+1.2 Tela Inicial
+1.3 Menu ráp
+1.4 Ferramentas de Pesquisa
+1.4.1 Pesquisa de Menus
+    1.4.2 Caixa de Pesquisas
+    1.4.3 Botão Buscar
+    1.4.4 Lupa de consulta
+1.5 Botões
+    1.5.1 Novo
+    1.5.2 Excluir
+    1.5.3 Imprimir
+    1.5.4 Setas
+1.6 Algumas abas
+    1.6.1 Listagem
+    1.6.2 Cadastro
+    1.6.3 Anexos
+    1.6.4 Hierarquia
+    1.6.5 Contatos
+    1.6.6 Obra
+    Acessórios
+    1.6.7 Dados Adicionais
+
+                    /*
+            {
+                "id":"1_1_1_1",
+                "titulo":"Conhecendo outras funções",
+                "resumo":"Além de adicionar um novo cliente, também é possível alterar, excluir, pesquisar e imprimir um cadastro.",
+                "idimg":["1_1_1_1"],
+                "tipo":"Manual",
+                "item":["O primeiro passo para editar um cadastro é encontrá-lo através da aba 'Listagem' ou Botão 'Buscar'.","Na aba 'Listagem' escolha o critério de pesquisa: 'NOME','CPF' ou 'CNPJ' e depois digite o dado desejado.","Para utilizar o Botão 'Buscar' basta clicá-lo, digitar algum dado do cliente no campo correspondente e clicar em 'Pesq'."],
+                "id_destino":"1_1_1_2"
+                }
+                {
+                    "id":"1_1_1_2",
+                    "titulo":"Alterar ou excluir",
+                    "resumo":"Após encontrar e selecionar o cadastro desejado, podemos realizar alterações ou excluir, se necessário. ",
+                    "idimg":["1_1_1_2"],
+                    "tipo":"Manual",
+                    "item":["Para realizar uma alteração, clique no Botão Alterar, edite os dados desejados e depois clique em Confirmar","Da mesma forma para excluir um cadastro, clique em Excluir e depois em Confirmar"],
+                    "id_destino":"1_1_1_3"
+                    }
+                {
+                    "id":"1_1_1_3",
+                    "titulo":"Imprimir",
+                    "resumo":"Também é possível imprimir a Ficha Cadastral ou a Listagem de todos os clientes através do Botão Imprimir.",
+                    "idimg":["1_1_1_3"],
+                    "tipo":"Manual",
+                    "item":["Se deseja imprimir a ficha cadastral de um cadastro específico, selecione-o e clique em Imprimir.","Abrirá uma segunda janela com os relatórios disponíveis para impressão. Selecione a opção desejada e clique em Imprimir novamente.","Então aparecerá as opções de impressão, sendo possível imprimir, pré-visualizar ou gerar um arquivo em formatos da sua preferência."],
+                    "id_destino":"1_1_1_4"
+                    }
+                {
+                    "id":"1_1_1_4",
+                    "titulo":"Cliente - Outras abas",
+                    "resumo":"Em cadastro de clientes conseguimos acessar outras abas como: - Endereços - Contatos - Obras - Anexos - Locações - Históricos Financeiro - Valor Locação - Parâmetros - Créditos.",
+                    "idimg":["1_1_1_4"],
+                    "tipo":"Manual",
+                    "item":["Na aba Endereços é possível visualizar e distinguir o endereço de Entrega do endereço de Cobrança.","Em Contatos podemos adicionar uma ou mais pessoas responsáveis por receber e assinar o contrato.","Em Obras é possível incluir o endereço das obras vinculadas ao cadastro, caso haja necessidade de diferenciar o endereço de recebimento dos equipamentos.","Em Anexos é possível armazenar quaisquer documentos ou arquivos necessários.","As Abas Locações e Históricos Financeiro exibem informações correspondentes.", "Em Valor Locação podemos adicionar o valor daquela locação","Em Parâmetros podemos definir critérios que serão úteis ao gerar registros financeiros ou fiscais.","Aba Créditos tem a utilidade de adicionar valores em créditos para o cliente."],
+                    "id_destino":"1"
+                    }
+            {
+            "id":"1_1_2",
+            "titulo":"Fornecedor",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de fornecedores.",
+            "idimg":["1_1_2"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um novo Fornecedor, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha todos os dados e clique em Confirmar","Assim como o cadastro de Clientes, essa janela também possui abas em comum e com as mesmas funções: Contatos, Anexos e Históricos Financeiro."],
+            "id_destino":"1_1"
+            }
+            {
+            "id":"1_1_3",
+            "titulo":"Vendedor",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de vendedores.",
+            "idimg":["1_1_3"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um novo Fornecedor, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha todos os dados e clique em Confirmar","Aqui também é possível incluir Dados Adicionais e Anexos"],
+            "id_destino":"1_1"
+            }
+            {
+            "id":"1_1_4",
+            "titulo":"Comprador",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de compradores.",
+            "idimg":["1_1_4"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um novo Fornecedor, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha todos os dados e clique em Confirmar"],
+            "id_destino":"1"
+            }
+                
+                {
+                "id":"1_1_4_1",
+                "titulo":"Comprador listar comissão",
+                "resumo":"Listar as comissões recebidas e a receber",
+                "idimg":["1_1_4_1"],
+                "tipo":"Manual",
+                "item":["Para listar as comissões recebidas a receber"],
+                "id_destino":
+                }	 
+    ]
+    [
+    {
+        "id":"1_2",
+        "titulo":"Produtos",
+        "idimg":"1_2",
+        "tipo":"Menu",
+        "opcoes":["Produto","Fabricante","Classe","Unidade",],
+        "idopcoes":["1_2_1","1_2_2","1_2_3","1_2_4"]
+        }
+        {
+            "id":"1_2_1",
+            "titulo":"Produto",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de produtos",
+            "idimg":["1_2_1"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um novo Produto, siga o caminho indicado na imagem e clique em 'Novo'.","Além da aba cadastro, é importante que preencha o máximo de dados possíveis em todas as outras abas, para que o cadastro fique completo.","Por fim, clique em Confirmar"],
+            "id_destino":"1_2_2"
+            }
+        {
+            "id":"1_2_2",
+            "titulo":"Fabricante",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de fabricantes",
+            "idimg":["1_2_2"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um novo Fabricante, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha todos os dados e clique em Confirmar"],
+            "id_destino":"1_2_3"
+            }	 
+        {
+            "id":"1_2_3",
+            "titulo":"Classe",
+            "resumo":" Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de classes",
+            "idimg":["1_2_3"],
+            "tipo":"Manual",
+            "item":["Para cadastrar uma Classe, siga o caminho indicado na imagem e clique em 'Novo' ou .","Preencha todos os dados e clique em Confirmar"],
+            "id_destino":"1_2_4"
+            }
+        {
+            "id":"1_2_4",
+            "titulo":"Unidade",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de unidades",
+            "idimg":["1_2_4"],
+            "tipo":"Manual",
+            "item":["Para cadastrar uma Unidade, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha os campos e clique em Confirmar"],
+            "id_destino":"1"
+            }
+    ]
+    [
+    {
+        "id":"1_3",
+        "titulo":"Serviços",
+        "idimg":"1_3",
+        "tipo":"Menu",
+        "opcoes":["Serviço"],
+        "idopcoes":["1_3_1"]
+        }
+        {
+            "id":"1_3_1",
+            "titulo":"Serviço",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de serviços",
+            "idimg":["1_3_1"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um Serviço, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha os campos de acordo com o seu serviço oferecido e clique em Confirmar"],
+            "id_destino":"1"
+            }
+    ]
+    [
+    {
+        "id":"1_4",
+        "titulo":"Equipamentos",
+        "idimg":"1_4",
+        "tipo":"Menu",
+        "opcoes":["Equipamento","Fabricante","Classe","Unidade"],
+        "idopcoes":["1_4_1","1_4_2","1_4_3","1_4_4"]
+        }
+        {
+            "id":"1_4_1",
+            "titulo":"Equipamento",
+            "resumo":"Nesse menu é possível adicionar, editar, pesquisar ou excluir o cadastro de equipamentos",
+            "idimg":["1_4_1"],
+            "tipo":"Manual",
+            "item":["Para cadastrar um Equipamento, siga o caminho indicado na imagem e clique em 'Novo'.","Preencha os campos e clique em Confirmar"],
+            "id_destino":"1_4_1_1"
+            }
+            {
+                "id":"1_4_1_1",
+                "titulo":"Equipamento - Outras abas",
+                "resumo":"Em cadastro de equipamentos existem outras abas importantes como: - Acessórios - Histórico de Locação - Valor Locação - Movimentação - Histórico de Manutenção - RFID - Código de Barras",
+                "idimg":["1_4_1_1"],
+                "tipo":"Manual",
+                "item":["Na aba Acessórios é possível vincular um acessório ao equipamento.","Em Histórico de Locação podemos visualizar a movimentação do equipamento. Todos os "],
+                "id_destino":"1_4_3"
+                }		 
+    {
+    "id":"2",
+    "titulo":"Movimentação",
+    "idimg":"2",
+    "tipo":"Menu",
+    "opcoes":["Locações","Saídas","Entradas","Orçamento","Ordem de Serviço","Manutenção de Equipamento","Faturamento"],
+    "idopcoes":["2_1","2_2","2_3","2_4","2_5","2_6","2_7"]
+    }
+    {
+        "id":"2_1",
+        "titulo":"Locações",
+        "idimg":"2_1",
+        "tipo":"Menu",
+        "opcoes":["Locações","Saídas","Entradas","Orçamento","Ordem de Serviço","Manutenção de Equipamento","Faturamento"],
+        "idopcoes":["2_1","2_2","2_3","2_4","2_5","2_6","2_7"]
+        }
+    
+    {
+    "id":"3",
+    "titulo":"Financeiro",
+    "idimg":"3",
+    "tipo":"Menu",
+    "opcoes":["Conta a Pagar","Conta a Receber","Caixa","Cheque","Boleto","Crédito"],
+    "idopcoes":["3_1","3_2","3_3","3_4","3_5","3_6"]
+    }
+    {
+    "id":"4",
+    "titulo":"Administração",
+    "idimg":"4",
+    "tipo":"Menu",
+    "opcoes":["Grupo","Usuário","Permissões","Acessos"],
+    "idopcoes":["4_1","4_2","4_3","4_4"]
+    }
+       ]				
+    {
+    "id":"5",
+    "titulo":"Relatórios",
+    "idimg":"5",
+    "tipo":"Manual",
+    "opcoes":"Manual_5",
+    "idopcoes":["5_1"]
+    }
+    {
+    "id":"5_1",
+    "titulo":"Relatórios",
+    "resumo":"Reusmo da tarefa",
+    "idimg":"5_1",
+    "tipo":"Manual",
+    "item":["Selecione qual relatório deseja imprimrir"],
+    "id_destino":"5_2"
+    }
+    {
+    "id":"5_2",
+    "titulo":"Relatórios",
+    "resumo":"Reusmo da tarefa",
+    "idimg":"5_2",
+    "tipo":"Manual",
+    "item":["Informe quais filtros deseja aplicar ao relatório selecionado"],
+    "id_destino":"5_3",
+    }
+    {
+    "id":"5_3",
+    "titulo":"Relatórios",
+    "resumo":"Reusmo da tarefa",
+    "idimg":"5_3",
+    "tipo":"Manual",
+    "item":["Informe qual ordenação deseja dar ao relatório"],
+    "id_destino":
+    }
+    {
+    "id":"6",
+    "titulo":"Fiscal",
+    "idimg":"6",
+    "tipo":"Menu",
+    "opcoes":["Sintegra","SPED","PAF-ECF","Outros"],
+    "idopcoes":["6_1","6_2","6_3","6_4"]
+    }
+    {
+    "id":"7",
+    "titulo":"Manutenção",
+    "idimg":"7",
+    "tipo":"Menu",
+    "opcoes":["Banco de Dados","Configurações","Parâmetros"],
+    "idopcoes":["7_1","7_2","7_3"]
+    }
+    {
+    "id":"8",
+    "titulo":"Seção",
+    "idimg":"8",
+    "tipo":"Menu",
+    "opcoes":["LogOff Usuário","Alterar Senha"],
+    "idopcoes":["8_1","8_2"]
+    }
+    {
+    "id":"9",
+    "titulo":"Outros",
+    "idimg":"9",
+    "tipo":"Menu",
+    "opcoes":["Log SQL","Agenda","Mensagem","Query Browse","DashBoard"],
+    "idopcoes":["9_1","9_2","9_3","9_4","9_5"]
+    }
+    {
+    "id":"10",
+    "titulo":"FAQ",
+    "idimg":"10",
+    "tipo":"Manual",
+    "opcoes":"Manual_10",
+    "idopcoes":"10_1"
+    }
+    {
+    "id":"11",
+    "titulo":"Parâmetro",
+    "idimg":"11",
+    "tipo":"Menu",
+    "opcoes":["Parâmetro Geral","Parâmetro por Empresa","Parâmetro por Cliente"],
+    "idopcoes":["11_1","11_2","11_3"]
+    }
+    [
+        {
+        "id":"11_1",
+        "titulo":"Parâmetro Geral",
+        "resumo":"Reusmo da tarefa",
+        "idimg":["11_1","11_2"],
+        "tipo":"Manual",
+        "item":["1° - Parâmetro tal 1","2° - Parâmetro tal 2"],
+        "id_destino":"11_4"
+        }
+        {
+        "id":"11_2",
+        "titulo":"Parâmetro por Empresa",
+        "resumo":"Reusmo da tarefa",
+        "idimg":"11_2",
+        "tipo":"Manual",
+        "item":["1° - Parâmetro tal 3","2° - Parâmetro tal 4"],
+        "id_destino":"11_4"
+        }
+        {
+        "id":"11_3",
+        "titulo":"Parâmetro por Cliente",
+        "resumo":"Reusmo da tarefa",
+        "idimg":"11_3",
+        "tipo":"Manual",
+        "item":["1° - Parâmetro tal 5","2° - Parâmetro tal 6"],
+        "id_destino":"11_4"
+        }
+            {
+            "id":"11_4",
+            "titulo":"Salvar Parâmetro",
+            "resumo":"Reusmo da tarefa",
+            "idimg":"11_3",
+            "tipo":"Manual",
+            "item":["Para Salvar um parâmetro tipo numérico é só ","Para Salvar um parâmetro tipo texto é "],
+            "id_destino":
+            }
+    ]
