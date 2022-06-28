@@ -3,9 +3,9 @@
     { "tipo":"Manual",
       "titulo":"Primeiros Passos",
       "resumo":"Ao abrir o software, nos deparamos com a tela de login e para acessar o sistema é necessário ter um Usuário.",
-      "idimg":"0_1",      
-      "itens":["Selecione a empresa e a filial e digite o Usuário e Senha para efetuar o login.","Em administração será mostrado passo a passo como criar Usuários."],
-      "id_destino":"0_1_1"
+      "idimg":"0_1",  
+      "id_destino":"0_1_1",
+      "itens":["Selecione a empresa e a filial e digite o Usuário e Senha para efetuar o login.","Em administração será mostrado passo a passo como criar Usuários."]
       }
     ],
   "3": [
