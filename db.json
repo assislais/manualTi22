@@ -1,10 +1,9 @@
 {
   "0_1": [
-    { "id":"0_1",
+    { "tipo":"Manual",
       "titulo":"Primeiros Passos",
       "resumo":"Ao abrir o software, nos deparamos com a tela de login e para acessar o sistema é necessário ter um Usuário.",
-      "idimg":"0_1",
-      "tipo":"Manual",
+      "idimg":"0_1",      
       "item":["Selecione a empresa e a filial e digite o Usuário e Senha para efetuar o login.","Em administração será mostrado passo a passo como criar Usuários."],
       "id_destino":"0_1_1"
       }
