@@ -4,9 +4,8 @@
     "titulo":"Apresentação",
     "resumo":"Muito além de um software para gerenciamento de locações, o Ti22 é um sistema completo que possui diversas funcionalidades. Além de monitorar, é possível fazer toda a gestão da sua empresa. Veja alguns dos recursos:",
     "idimg":"0",
-    "tipo":"Manual",
     "id_destino":"0_0",
-    "item":["De forma simples e rápida, realize Cadastros de toda a estrutura envolvida em uma empresa de locações","Tenha todo o controle sobre as Movimentações de produtos e serviços.","Gestão Financeira completa e integrada às responsabilidades fiscais.","Controle a utilização dos colaboradores a cada função do sistema.","Relatórios e extratos personalizados que oferecem informações essenciais para a administração da sua empresa."]
+    "itens":["De forma simples e rápida, realize Cadastros de toda a estrutura envolvida em uma empresa de locações","Tenha todo o controle sobre as Movimentações de produtos e serviços.","Gestão Financeira completa e integrada às responsabilidades fiscais.","Controle a utilização dos colaboradores a cada função do sistema.","Relatórios e extratos personalizados que oferecem informações essenciais para a administração da sua empresa."]
     }
     ],
   "0_1": [
