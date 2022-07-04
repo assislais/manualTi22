@@ -18,7 +18,7 @@
       }
     ],
   "3": [
-    { "tipo":"menu",
+    { "tipo":"Menu",
       "titulo":"Manual do Usuário",
       "resumo": "Ao abrir o software, nos deparamos com a tela de login e para acessar o sistema é necessário ter um Usuário.",
       "idimg":"0_1",
@@ -28,7 +28,7 @@
     }
   ],
   "2": [
-    { "tipo":"menu",
+    { "tipo":"Menu",
       "id":"0_2",
       "titulo":"MENU Teste 02",
       "resumo": "Ao abrir o software, nos deparamos com a tela de login e para acessar o sistema é necessário ter um Usuário.",
